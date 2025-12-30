@@ -45,7 +45,3 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-
-fun DummyFunction(){
-    // TODO Remove post push and check if working
-}
